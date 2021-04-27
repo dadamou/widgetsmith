@@ -57,7 +57,7 @@
       "state" : "free",
       "title" : "TIPS 1",
       "description" : "",
-      "written" : ""
+      "written" : "<p>Widgetsmith lets you personalize your home screen like never before.</p><p><br></p><p>It starts with a wide collection of highly customizable widgets, which range in function from date, to weather, to astronomy. Each can be adjusted precisely to best fit your desired function and appearance.</p>"
     },
     {
       "id" : 2,
@@ -65,7 +65,7 @@
       "state" : "free",
       "title" : "TIPS 2",
       "description" : "",
-      "written" : ""
+      "written" : "<p><br></p><p>This set of widgets can then be dynamically scheduled to appear on your home screen following the rules you define. For example, a particular widget could show the weather first thing in the morning, then your calendar during your workday, then switch to your Activity ring progress as you wrap up your day. This lets you take full advantage of each slot on your home screen.</p>"
     },
     {
       "id" : 3,
@@ -73,7 +73,23 @@
       "state" : "free",
       "title" : "TIPS 3",
       "description" : "",
-      "written" : ""
+      "written" : "<p><br></p><p>Activity widgets require a paired Apple Watch</p><p><br></p><p>The app itself also includes a wide collection of tools, such as a weather app, a timezone converter, a calendar. These tools can automatically launch based on the active widget tapped.</p>"
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://dadamou.github.io/widgetsmith/happymode.jpg",
+      "state" : "free",
+      "title" : "Notes 2",
+      "description" : "",
+      "written" : "<p><br></p><p>Notes:</p><p><br></p><p>&bull; Widgetsmith optionally integrates with Apple Health. This data is used to display your step and activity if you select one of those widget types. Permission for Widgetsmith to access this data is controlled through the Apple Health app.</p><p><br></p><p>&bull; Widgetsmith includes an optional premium subscription. This is offered on a monthly or annual basis. If you choose to purchase a subscription your payment will be charged to your iTunes account. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can turn off auto-renewal at any time by going to your Account Settings on the App Store after purchase.</p><p><br></p><p>&bull; Access to Tide and Weather hosted data is only available to Widgetsmith Premium subscribers.</p>"
+    },
+    {
+      "id" : 5,
+      "imageURL" : "https://dadamou.github.io/widgetsmith/happymode.jpg",
+      "state" : "free",
+      "title" : "Note 2",
+      "description" : "",
+      "written" : "This is not a widgetsmith official app, This is an UNOFFICIAL widgetsmith app guide created by fans, not associated or affiliated with developers of any app or any of their partners"
     }
   ]
 }
